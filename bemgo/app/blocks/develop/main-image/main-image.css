@@ -1,0 +1,13 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.main-image{}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.main-image{}
+ }
+
+ @media screen and (max-width: 800px) {
+	.main-image{
+		display: none;
+	}
+ }

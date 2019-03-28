@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.block-order-form_pos{
+		position: relative;
+		left: 375px;
+		top: -150px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-order-form_pos{
+		position: relative;
+		left: 100px;
+		top: -150px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-order-form_pos{
+		position: relative;
+		left: 150px;
+		top: -250px;
+	}
+ }

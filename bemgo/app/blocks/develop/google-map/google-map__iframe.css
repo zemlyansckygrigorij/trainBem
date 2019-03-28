@@ -1,0 +1,25 @@
+
+
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.google-map__iframe{
+		width: 1200px;
+		height: 701px;
+		border: 0px;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.google-map__iframe{
+		width:  1920px;
+		height: 701px;
+		border: 0px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.google-map__iframe{
+		width:  800px;
+		height: 701px;
+		border: 0px;
+	}
+ }

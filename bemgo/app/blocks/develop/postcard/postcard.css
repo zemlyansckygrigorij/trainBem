@@ -1,0 +1,26 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.postcard{
+		background-color: #aaaaaa;
+		width: 270px;
+		height: 350px;
+		border: solid 1px black;
+	}
+ }
+@media screen  and (min-width: 1200px) {
+	.postcard{
+		background-color: #aaaaaa;
+		width: 270px;
+		height: 350px;
+		border: solid 1px black;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.postcard{
+		background-color: #aaaaaa;
+		width: 270px;
+		height: 350px;
+		border: solid 1px black;
+	}
+ }

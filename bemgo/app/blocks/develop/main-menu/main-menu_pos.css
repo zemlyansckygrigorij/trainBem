@@ -1,0 +1,27 @@
+
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.main-menu_pos{
+		position: absolute;
+		top: 0px;
+		/*left:0px;*/
+		z-index: 2;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.main-menu_pos{
+		position: absolute;
+		top: 0px;
+		left:0px;
+		z-index: 2;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.main-menu_pos{
+		position: absolute;
+		top: 0px;
+		left:0px;
+		z-index: 2;
+	}
+ }

@@ -1,0 +1,20 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.button-order-tour{
+		display:flex;
+		justify-content:center;
+	}
+ }
+@media screen  and (min-width: 1200px) {
+	.button-order-tour{
+		display:flex;
+		justify-content:center;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.button-order-tour{
+		display:flex;
+		justify-content:center;
+	}
+ }

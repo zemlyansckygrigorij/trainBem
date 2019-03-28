@@ -1,0 +1,38 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-header__phone{
+		font-family: BloggerSans;
+		color: #5cbc16;
+		font-size: 20px;
+		font-weight: 500;
+		text-align: right;
+		width: 165px;
+		height: 19px;
+		margin-bottom: 7px;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.block-header__phone{
+		font-family: BloggerSans;
+		color: #5cbc16;
+		font-size: 20px;
+		font-weight: 500;
+		text-align: right;
+		width: 165px;
+		height: 19px;
+		margin-bottom: 7px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-header__phone{
+		font-family: BloggerSans;
+		color: #5cbc16;
+		font-size: 20px;
+		font-weight: 500;
+		text-align: right;
+		width: 165px;
+		height: 19px;
+		margin-bottom: 7px;
+	}
+ }

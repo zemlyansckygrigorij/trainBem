@@ -1,0 +1,30 @@
+@media screen  and (min-width: 1200px) {
+	
+	.main-image__text_pos{
+		position: absolute;
+		top: 225px;
+		left: 376px;
+		z-index: 2;
+	}
+ }
+ 
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	
+	.main-image__text_pos{
+		position: absolute;
+		top: 225px;
+		left: 250px;
+		z-index: 2;
+	}	 
+ }
+
+
+ @media screen and (max-width: 800px) {
+	
+	.main-image__text_pos{
+		position: absolute;
+		top: 225px;
+		left: 176px;
+		z-index: 2;
+	}
+ }

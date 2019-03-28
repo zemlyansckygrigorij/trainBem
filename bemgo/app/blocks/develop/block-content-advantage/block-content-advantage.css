@@ -1,0 +1,23 @@
+@media screen  and (min-width: 1200px) {
+	.block-content-advantage{
+		width: 1920px;
+		display:flex;
+		justify-content:center;
+	}
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-content-advantage{
+		width: 1200px;
+		display:flex;
+		/*justify-content:center;*/
+	}
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.block-content-advantage{
+		width: 800px;
+		display:flex;
+		/*justify-content:center;*/
+	}
+ }

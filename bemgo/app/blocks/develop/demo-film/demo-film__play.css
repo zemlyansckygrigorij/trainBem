@@ -1,0 +1,14 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.demo-film__play{}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.demo-film__play{}
+ }
+
+ @media screen and (max-width: 800px) {
+	.demo-film__play{
+		width: 150px;
+		height: 100px;
+	}
+ }

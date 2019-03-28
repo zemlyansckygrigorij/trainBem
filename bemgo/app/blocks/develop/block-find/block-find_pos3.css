@@ -1,0 +1,21 @@
+
+@media screen  and (min-width: 1200px) {
+	.block-find_pos3{
+		position: relative;	
+		top: 1050px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-find_pos3{
+		position: relative;	
+		top: 890px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-find_pos3{
+		position: relative;	
+		top:870px;
+	}
+ }

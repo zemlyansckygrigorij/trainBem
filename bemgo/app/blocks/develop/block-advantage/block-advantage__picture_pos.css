@@ -1,0 +1,20 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-advantage__picture_pos{
+		position: relative;
+		z-index:1
+	}
+ }
+@media screen  and (min-width: 1200px) {
+	.block-advantage__picture_pos{
+		position: relative;
+		z-index:1
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-advantage__picture_pos{
+		position: relative;
+		z-index:1
+	}
+ }

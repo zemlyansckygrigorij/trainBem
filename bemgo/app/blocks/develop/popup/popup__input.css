@@ -1,0 +1,75 @@
+
+@media screen  and (min-width: 1200px) {
+
+	.popup__input{
+		/* Style for "Rectangle" */
+		width: 270px;
+		height: 40px;
+		border-radius: 3px;
+		border: 1px solid #5cbc16;
+		background-color: #ffffff;
+		color: #999999;
+		font-family: "Blogger Sans";
+		font-size: 16px;
+		font-weight: 300;
+		/* Text style for "В, аше имя" */
+		letter-spacing: 0.4px;
+		border: 0;
+		border-left: 1px solid #5cbc16;
+		border-right: 1px solid #5cbc16;
+		border-bottom: 1px solid #5cbc16;
+		background-color: rgba(0,0,0,0);
+		margin-bottom:20px;
+		padding:5px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+
+	.popup__input{
+		/* Style for "Rectangle" */
+		width: 270px;
+		height: 40px;
+		border-radius: 3px;
+		border: 1px solid #5cbc16;
+		background-color: #ffffff;
+		color: #999999;
+		font-family: "Blogger Sans";
+		font-size: 16px;
+		font-weight: 300;
+		/* Text style for "В, аше имя" */
+		letter-spacing: 0.4px;
+		border: 0;
+		border-left: 1px solid #5cbc16;
+		border-right: 1px solid #5cbc16;
+		border-bottom: 1px solid #5cbc16;
+		background-color: rgba(0,0,0,0);
+		margin-bottom:20px;
+		padding:5px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+
+	.popup__input{
+		/* Style for "Rectangle" */
+		width: 270px;
+		height: 40px;
+		border-radius: 3px;
+		border: 1px solid #5cbc16;
+		background-color: #ffffff;
+		color: #999999;
+		font-family: "Blogger Sans";
+		font-size: 16px;
+		font-weight: 300;
+		/* Text style for "В, аше имя" */
+		letter-spacing: 0.4px;
+		border: 0;
+		border-left: 1px solid #5cbc16;
+		border-right: 1px solid #5cbc16;
+		border-bottom: 1px solid #5cbc16;
+		background-color: rgba(0,0,0,0);
+		margin-bottom:20px;
+		padding:5px;
+	}
+ }

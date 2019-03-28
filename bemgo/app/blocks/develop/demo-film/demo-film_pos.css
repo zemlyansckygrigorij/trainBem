@@ -1,0 +1,24 @@
+
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.demo-film_pos{
+		position: relative;
+		top: 1300px;
+		left: 100px;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.demo-film_pos{
+		position: relative;
+		top: 900px;
+		/*left: 100px;*/
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.demo-film_pos{
+		position: relative;
+		top: 1450px;
+		left: 100px;
+	}
+ }

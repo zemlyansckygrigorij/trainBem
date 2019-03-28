@@ -1,0 +1,38 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-content-advantage__text{
+		height: 32px;
+		color: #ffffff;
+		font-family: "Blogger Sans";
+		font-size: 36px;
+		font-weight: 700;
+		letter-spacing: 0.82px;
+		display:flex;
+		align-self: start;
+	} 
+ }
+@media screen  and (min-width: 1200px) {
+	.block-content-advantage__text{
+		height: 32px;
+		color: #ffffff;
+		font-family: "Blogger Sans";
+		font-size: 36px;
+		font-weight: 700;
+		letter-spacing: 0.82px;
+		display:flex;
+		align-self: start;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-content-advantage__text{
+		height: 32px;
+		color: #ffffff;
+		font-family: "Blogger Sans";
+		font-size: 36px;
+		font-weight: 700;
+		letter-spacing: 0.82px;
+		display:flex;
+		align-self: start;
+	}
+ }

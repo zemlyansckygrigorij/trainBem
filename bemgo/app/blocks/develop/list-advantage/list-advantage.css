@@ -1,0 +1,44 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.list-advantage {
+		width:1171px;
+		z-index: 2;
+		height: 32px;
+		color: #ffffff;
+		font-family: "Blogger Sans";
+		font-size: 36px;
+		font-weight: 700;
+		letter-spacing: 0.82px;
+		display:flex;
+		justify-content:center;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.list-advantage {
+		width:1171px;
+		z-index: 2;
+		height: 32px;
+		color: #ffffff;
+		font-family: "Blogger Sans";
+		font-size: 36px;
+		font-weight: 700;
+		letter-spacing: 0.82px;
+		display:flex;
+		justify-content:center;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.list-advantage {
+		width:1171px;
+		z-index: 2;
+		height: 32px;
+		color: #ffffff;
+		font-family: "Blogger Sans";
+		font-size: 36px;
+		font-weight: 700;
+		letter-spacing: 0.82px;
+		display:flex;
+		justify-content:center;
+	}
+ }

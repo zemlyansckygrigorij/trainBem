@@ -1,0 +1,23 @@
+@media screen  and (min-width: 1200px) {
+	.block-advantage{
+		width: 1920px;
+		height: 472px;
+		
+	} 
+ }
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-advantage{
+		width: 1200px;
+		height: 472px;
+		
+	}  
+ }
+
+
+ @media screen and (max-width: 800px) {
+	.block-advantage{
+		width: 800px;
+		height: 472px;
+		
+	} 
+ }

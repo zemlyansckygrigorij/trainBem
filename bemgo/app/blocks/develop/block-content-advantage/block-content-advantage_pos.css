@@ -1,0 +1,27 @@
+@media screen  and (min-width: 1200px) {
+	.block-content-advantage_pos{
+		position: relative;
+		top: -400px;
+		left: 0px;
+		z-index:3;
+	}
+ }
+
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-content-advantage_pos{
+		position: relative;
+		top: -400px;
+		left: 90px;
+		z-index:3;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-content-advantage_pos{
+		position: relative;
+		top: -400px;
+		left: 90px;
+		z-index:3;
+	}
+ }

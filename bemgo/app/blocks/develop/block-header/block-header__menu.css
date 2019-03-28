@@ -1,0 +1,24 @@
+
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-header__menu{
+		display:flex;
+		flex-direction:row;
+		justify-content:space-between;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.block-header__menu{
+		display:flex;
+		flex-direction:row;
+		justify-content:space-between;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-header__menu{
+		display:flex;
+		flex-direction:row;
+		justify-content:space-between;
+	}
+ }

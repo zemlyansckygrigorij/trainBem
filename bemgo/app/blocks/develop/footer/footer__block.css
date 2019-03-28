@@ -1,0 +1,29 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.footer__block{
+		width: 1000px;
+		display: flex;
+		flex-direction:row;
+		align-items: center;
+		justify-content: space-between;
+	}
+ }
+@media screen  and (min-width: 1200px) {
+	.footer__block{
+		width: 1171px;
+		display: flex;
+		flex-direction:row;
+		align-items: center;
+		justify-content: space-between;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.footer__block{
+		width: 600px;
+		display: flex;
+		flex-direction:row;
+		align-items: center;
+		justify-content: space-between;
+	}
+ }

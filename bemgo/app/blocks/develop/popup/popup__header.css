@@ -1,0 +1,36 @@
+
+@media screen  and (min-width: 1200px) {
+	.popup__header{
+		height: 21px;
+		color: #5cbc16;
+		font-family: "Blogger Sans";
+		font-size: 30px;
+		font-weight: 700;
+		/* Text style for "З, АКАЗАТЬ" */
+		letter-spacing: 0.75px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.popup__header{
+		height: 21px;
+		color: #5cbc16;
+		font-family: "Blogger Sans";
+		font-size: 30px;
+		font-weight: 700;
+		/* Text style for "З, АКАЗАТЬ" */
+		letter-spacing: 0.75px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.popup__header{
+		height: 21px;
+		color: #5cbc16;
+		font-family: "Blogger Sans";
+		font-size: 30px;
+		font-weight: 700;
+		/* Text style for "З, АКАЗАТЬ" */
+		letter-spacing: 0.75px;
+	}
+ }

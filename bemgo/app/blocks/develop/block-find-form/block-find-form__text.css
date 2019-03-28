@@ -1,0 +1,39 @@
+
+@media screen  and (min-width: 1200px) {
+	.block-find-form__text{
+		font-family: BloggerSans;
+		color: #262626;
+		font-size: 36px;
+		font-weight: 700;
+		text-align: left;
+		height: 32px;
+		display:flex;
+		align-self: start;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-find-form__text{
+		font-family: BloggerSans;
+		color: #262626;
+		font-size: 36px;
+		font-weight: 700;
+		text-align: left;
+		height: 32px;
+		display:flex;
+		align-self: start;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-find-form__text{
+		font-family: BloggerSans;
+		color: #262626;
+		font-size: 36px;
+		font-weight: 700;
+		text-align: left;
+		height: 32px;
+		display:flex;
+		align-self: center;
+	}
+ }

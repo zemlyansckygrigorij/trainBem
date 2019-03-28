@@ -1,0 +1,26 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.slide{
+		background-color:  #5cbc16;
+		box-shadow: 0px 5px 4.75px 0.25px rgba(41, 51, 85, 0.5);
+		width: 270px;
+		height: 200px;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.slide{
+		background-color:  #5cbc16;
+		box-shadow: 0px 5px 4.75px 0.25px rgba(41, 51, 85, 0.5);
+		width: 270px;
+		height: 200px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.slide{
+		background-color:  #5cbc16;
+		box-shadow: 0px 5px 4.75px 0.25px rgba(41, 51, 85, 0.5);
+		width: 270px;
+		height: 200px;
+	}
+ }

@@ -1,0 +1,26 @@
+
+
+
+@media screen  and (min-width: 1200px) {
+	.block-order-background__text_pos{
+		position: absolute;
+		left: 375px;
+		top: 35px;
+	} 
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-order-background__text_pos{
+		position: absolute;
+		left: 175px;
+		top: 35px;
+	} 
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-order-background__text_pos{
+		position: absolute;
+		left: 190px;
+		top: 35px;
+	} 
+ }

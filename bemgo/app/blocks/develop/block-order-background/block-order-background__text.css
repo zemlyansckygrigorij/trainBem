@@ -1,0 +1,30 @@
+
+@media screen  and (min-width: 1200px) {
+	.block-order-background__text{
+		font-family: BloggerSans;
+		color: #ffffff;
+		font-size: 36px;
+		font-weight: 700;
+		text-align: left;
+	} 
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-order-background__text{
+		font-family: BloggerSans;
+		color: #ffffff;
+		font-size: 36px;
+		font-weight: 700;
+		text-align: left;
+	} 
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-order-background__text{
+	    font-family: BloggerSans;
+		color: #ffffff;
+		font-size: 36px;
+		font-weight: 700;
+		text-align: left;
+	} 
+ }

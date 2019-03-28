@@ -1,0 +1,21 @@
+
+@media screen  and (min-width: 1200px) {
+	.block-order_pos{
+		position: relative;
+		top: 800px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-order_pos{
+		position: relative;
+		top: 1200px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-order_pos{
+		position: relative;
+		top: 1550px;
+	}
+ }

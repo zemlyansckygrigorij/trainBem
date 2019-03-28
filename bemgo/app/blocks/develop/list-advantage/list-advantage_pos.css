@@ -1,0 +1,27 @@
+
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.list-advantage_pos{
+		position: relative;
+		top: -380px;
+		/*left:  346px;*/
+		z-index:3;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.list-advantage_pos{
+		position: relative;
+		top: -380px;
+		left:  346px;
+		z-index:3;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.list-advantage_pos{
+		position: relative;
+		top: -380px;
+		left: -150px;
+		z-index:3;
+	}
+ }

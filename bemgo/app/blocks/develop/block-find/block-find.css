@@ -1,0 +1,32 @@
+
+@media screen  and (min-width: 1200px) {
+	.block-find{
+		background:  #ffffff;
+		width: 1920px;
+		display:flex;
+		justify-content:center;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-find{
+		background: #ffffff;
+		width: 1200px;
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-find{
+		background:  #ffffff;
+		width: 800px;
+		display:flex;
+		justify-content:center;
+	}
+ }

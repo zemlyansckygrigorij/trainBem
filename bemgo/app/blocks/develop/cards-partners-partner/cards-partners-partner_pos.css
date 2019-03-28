@@ -1,0 +1,12 @@
+
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.cards-partners-partner_pos{}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.cards-partners-partner_pos{}	 
+ }
+
+ @media screen and (max-width: 800px) {
+	.cards-partners-partner_pos{}	 
+ }

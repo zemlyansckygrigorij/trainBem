@@ -1,0 +1,23 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.popup_pos{
+		position:fixed ;
+		left: 450px;
+		top:200px;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.popup_pos{
+		position:fixed ;
+		left:  768px;
+		top:200px;
+	}	
+ }
+
+ @media screen and (max-width: 800px) {
+	.popup_pos{
+		position:fixed ;
+		left: 208px;
+		top:200px;
+	}
+ }

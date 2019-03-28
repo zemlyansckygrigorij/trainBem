@@ -1,0 +1,26 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-content-advantage__form{
+		display:flex;
+		flex-direction:row;
+		justify-content:space-between;
+		width: 1000px;;
+	}
+ }
+@media screen  and (min-width: 1200px) {
+	.block-content-advantage__form{
+		display:flex;
+		flex-direction:row;
+		justify-content:space-between;
+		width:1171px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-content-advantage__form{
+		display:flex;
+		flex-direction:column;
+		justify-content:space-between;
+		width:800px;
+	}
+ }

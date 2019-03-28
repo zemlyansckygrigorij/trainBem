@@ -1,0 +1,21 @@
+
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.grid-partners_pos{
+		position: relative;
+		top: 960px;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.grid-partners_pos{
+		position: relative;
+		top: 1100px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.grid-partners_pos{
+		position: relative;
+		top: 960px;
+	}
+ }

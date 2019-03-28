@@ -1,0 +1,32 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.footer__phone{
+		color: #5cbc16;
+		font-family: "Blogger Sans";
+		font-size: 30px;
+		font-weight: 500;
+		margin-top:10px;
+		width: 300px;
+	}
+ }
+@media screen  and (min-width: 1200px) {
+	.footer__phone{
+		color: #5cbc16;
+		font-family: "Blogger Sans";
+		font-size: 30px;
+		font-weight: 500;
+		margin-top:10px;
+		width: 300px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.footer__phone{
+		color: #5cbc16;
+		font-family: "Blogger Sans";
+		font-size: 30px;
+		font-weight: 500;
+		margin-top:10px;
+		width: 250px;
+	}
+ }

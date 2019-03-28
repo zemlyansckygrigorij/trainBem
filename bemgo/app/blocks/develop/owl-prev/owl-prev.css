@@ -1,0 +1,7 @@
+.owl-prev{
+	width: 12px;
+	height: 46px;
+	margin-left:-55px;
+	background-size: cover;
+	background-image: url( "img/left arrow.png");
+}

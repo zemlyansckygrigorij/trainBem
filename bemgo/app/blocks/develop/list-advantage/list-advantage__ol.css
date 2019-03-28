@@ -1,0 +1,17 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.list-advantage__ol{
+		list-style-type: decimal-leading-zero;
+	}
+ }
+@media screen  and (min-width: 1200px) {
+	.list-advantage__ol{
+		list-style-type: decimal-leading-zero;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.list-advantage__ol{
+		list-style-type: decimal-leading-zero;
+	}
+ }

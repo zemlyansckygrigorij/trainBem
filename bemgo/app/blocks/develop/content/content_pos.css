@@ -1,0 +1,21 @@
+
+@media screen  and (min-width: 1200px) {
+	.content_pos{
+		position: relative;	
+		top:650px
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.content_pos{
+		position: relative;	
+		top:650px
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.content_pos{
+		position: relative;	
+		top:760px;
+	}
+ }

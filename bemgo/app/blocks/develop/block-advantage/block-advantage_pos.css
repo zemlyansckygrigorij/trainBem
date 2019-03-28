@@ -1,0 +1,21 @@
+
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-advantage_pos{
+		position: relative;
+		top: 850px;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.block-advantage_pos{
+		position: relative;
+		top: 980px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-advantage_pos{
+		position: relative;
+		top: 820px;
+	}
+ }

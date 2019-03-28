@@ -1,0 +1,24 @@
+
+@media screen  and (min-width: 1200px) {
+	.footer_pos{
+		position:relative;
+		top: 780px;	
+		margin: 0 0 -70px;
+	}
+ }
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.footer_pos{
+		position:relative;
+		top: 780px;	
+		margin: 0 0 -70px;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.footer_pos{
+		position:relative;
+		top: 780px;	
+		margin: 0 0 -70px;
+	}
+ }

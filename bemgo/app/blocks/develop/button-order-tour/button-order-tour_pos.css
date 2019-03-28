@@ -1,0 +1,22 @@
+
+@media screen  and (min-width: 1200px) {
+	.button-order-tour_pos{
+		position:relative;
+		top: 750px;
+	}
+}
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.button-order-tour_pos{
+		position:relative;
+		top: 750px;
+	}
+}
+
+
+
+ @media screen and (max-width: 800px) {
+	.button-order-tour_pos{
+		position:relative;
+		top: 750px;
+	}
+}

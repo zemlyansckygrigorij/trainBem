@@ -1,0 +1,26 @@
+
+@media screen and (min-width: 800px) and (max-width: 1200px) {
+	.block-header__button-text{
+		font-family: BloggerSans;
+		color: #ffffff;
+		font-size: 18px;
+		font-weight: 500;
+	}	 
+ }
+@media screen  and (min-width: 1200px) {
+	.block-header__button-text{
+		font-family: BloggerSans;
+		color: #ffffff;
+		font-size: 18px;
+		font-weight: 500;
+	}
+ }
+
+ @media screen and (max-width: 800px) {
+	.block-header__button-text{
+		font-family: BloggerSans;
+		color: #ffffff;
+		font-size: 18px;
+		font-weight: 500;
+	}
+ }
